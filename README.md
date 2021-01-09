@@ -1,2 +1,2 @@
-# ANGRY-BIRD-1
-class-25
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
